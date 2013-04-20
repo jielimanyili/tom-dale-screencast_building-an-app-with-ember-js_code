@@ -1,7 +1,7 @@
-tom-dale-screencast_building-an-app-with-ember-js_code
+Source code for Tom Dale's screencast: [Building an App with Ember-js](http://www.youtube.com/watch?feature=player_embedded&v=Ga99hMi7wfY)
 ======================================================
 
-Code includes Ember client and REST Service API
+Includes Ember client and REST Service API
 
 This is a great video from Tom Dale. I followed it and created two small projects:
 - bloggr-client: this is the Ember.js app
